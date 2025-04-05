@@ -1,0 +1,34 @@
+.lion{
+     height:400px; 
+    width:390px;
+    border:3px solid black;
+    display:inline-block;
+    margin:35px;
+   transition-duration: 1s;
+   transition-timing-function:steps(6, end);
+   /* transition-timing-function: cubic-bezier(0.29, 1.01, 1, -0.68); */
+   border-radius:5px;
+   text-align: center;
+}
+.lion:hover{
+
+box-shadow:15px 15px 44px black;
+}
+.discrip{
+    padding:0px 0px 0px 20px;
+}
+img{
+    height:290px;
+    width:100%;
+    border-radius:5px 5px 0px 0px;
+}
+#first{
+    margin-left:80px;
+}
+body{
+    background-color:azure
+}
+.aboutjungle{
+   /* border:3px solid black;*/
+   text-align: justify;
+}
