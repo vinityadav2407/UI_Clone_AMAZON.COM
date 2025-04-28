@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+} 
+
+.btn{
+    height:200px;
+    width:200px;
+    border-radius: 45px;
+    border: 10px solid black;
+    margin:25px;
+
+}
+.red{
+    background-color: rgb(255, 128, 0);
+}
+.green{
+background-color:rgb(47, 255, 154) ;
+}
+.yellow{
+background-color:yellow ;
+}
+.purple{
+background-color: rgb(237, 99, 237);
+}
+.white{
+    background-color: white;
+}
+.danger{
+    background-color: red;
+}
