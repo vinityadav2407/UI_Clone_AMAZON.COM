@@ -21,6 +21,7 @@ function btnFlash(btn){
         btn.classList.remove("white");
     },250);
 }
+//funtion
 
  function levelUp(){
     userSeq=[];
