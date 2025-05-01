@@ -29,7 +29,6 @@ function btnFlash(btn){
     h2.innerText=`Level ${level}`;
     let randIndx=Math.floor(Math.random()*3)+1;
     let randColor=btns[randIndx];
-    // console.log(randColor);
     let randbtn=document.querySelector(`.${randColor}`);
 
 gameSeq.push(randColor);
