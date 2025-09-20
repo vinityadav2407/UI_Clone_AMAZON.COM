@@ -35,7 +35,7 @@ UI_Clone_AMAZON.COM/
 
 ## 📸 Preview  
 
-![Amazon UI Clone Screenshot](/UI_Clone_AMAZON.COM/ui_clone_amazon.com/assets/work-3.png)  
+![Amazon UI Clone Screenshot](ui_clone_amazon.com/assets/work-3.png)  
 
 ---
 
